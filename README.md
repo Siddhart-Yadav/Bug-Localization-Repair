@@ -10,12 +10,11 @@ Below are the links of the Notebook on Kaggle
 
 
 
-The Software Engineering ZIp file conatians the all the files during the project building stage whihc include 
-## Repository Structure
-This repository contains both the final project files and experimental work from the development process. The `project.zip` includes:
+This  SoftEngProj ZIp file contains both the final project files and experimental work from the development process. The `SoftEngProj.zip` includes:
 - Final implementation files
 - Experimental code and iterations
 - Development stage work
+- Evaluation programs like test cases,comparison of different models, test cases from the quixbugs repository etc.
 
 ### Note on Experimental Files
 Some files in this repository represent experimental stages of development and may not be directly relevant to the final implementation. These were preserved to:
